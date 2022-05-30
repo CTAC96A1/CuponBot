@@ -7,8 +7,8 @@
 ### This bot saves time searching for coupons
 --------------------------------------------------------------------------
 ## Programming languages used to create a bot
-![image](https://user-images.githubusercontent.com/91200669/17..)
+![image](https://user-images.githubusercontent.com/82401837/171036527-a1885816-7e90-4490-a2f1-5dfb6b5f28b0.png)
 --------------------------------------------------------------------------
 ## How to find a bot?
 ### You need to enter the name of the bot in the search engine: @CouponsBot
-![image](https://user-images.githubusercontent.com/91200669/17..)
+![image](https://user-images.githubusercontent.com/82401837/171036589-70efb75d-bf75-4fd8-8622-c93c61fd9454.png)
