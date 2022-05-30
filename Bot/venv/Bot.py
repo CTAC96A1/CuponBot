@@ -98,7 +98,18 @@ def message_handler(update: Update, context: CallbackContext):
 
 
 def main():
-    print('Start')
+    print('Выберите закусочную, для которой хотите посмотреть купоны(в Макдональдсе нет купонов)')
+    reply_markup = ReplyKeyboardMarkup(
+        keyboard=[
+            [
+                KeyboardButton(text=button_KFC)
+            ],
+            [
+                KeyboardButton(text=button_BKING)
+            ],
+        ],
+        resize_keyboard=True,
+    )
     updater = Updater(
         token='1799625335:AAFiHfiLCF2RxeQC2Yf3uQWzgznWqrmZ97w',
         use_context=True,
